@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Circle fill="#1f93ff16" layoutX="299.0" layoutY="201.0" radius="143.0" stroke="BLACK" strokeType="INSIDE" />
+      <Text layoutX="272.0" layoutY="76.0" strokeType="OUTSIDE" strokeWidth="0.0" text="12" textAlignment="CENTER" wrappingWidth="56.973958015441895">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Text>
+      <Text layoutX="364.0" layoutY="100.0" rotate="29.7" strokeType="OUTSIDE" strokeWidth="0.0" text="1">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="409.0" layoutY="141.0" rotate="45.0" strokeType="OUTSIDE" strokeWidth="0.0" text="2" wrappingWidth="14.973958015441895">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="427.0" layoutY="204.0" rotate="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="3">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="411.0" layoutY="273.0" rotate="116.6" strokeType="OUTSIDE" strokeWidth="0.0" text="4">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="364.0" layoutY="317.0" rotate="143.1" strokeType="OUTSIDE" strokeWidth="0.0" text="5" textAlignment="CENTER">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="294.0" layoutY="341.0" rotate="180.0" strokeType="OUTSIDE" strokeWidth="0.0" text="6">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="221.0" layoutY="318.0" rotate="-147.3" strokeType="OUTSIDE" strokeWidth="0.0" text="7" textAlignment="CENTER" wrappingWidth="12.9375">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="179.0" layoutY="273.0" rotate="-132.5" strokeType="OUTSIDE" strokeWidth="0.0" text="8">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="162.0" layoutY="203.0" rotate="-86.8" strokeType="OUTSIDE" strokeWidth="0.0" text="9">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="173.0" layoutY="140.0" rotate="-52.7" strokeType="OUTSIDE" strokeWidth="0.0" text="10">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Text layoutX="214.0" layoutY="101.0" rotate="-28.3" strokeType="OUTSIDE" strokeWidth="0.0" text="11">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
+      <Circle layoutX="298.0" layoutY="196.0" radius="6.0" stroke="BLACK" strokeType="INSIDE" />
+      <Text fill="#1a1b1a" layoutX="268.0" layoutY="224.0" strokeType="OUTSIDE" strokeWidth="0.0" text="WatchSoft" textAlignment="CENTER">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+      </Text>
+      <Line endX="-28.05816650390625" endY="-79.86831665039062" layoutX="385.0" layoutY="187.0" startX="-85.0" startY="7.0" strokeWidth="3.0" />
+      <Line endX="-16.0" endY="-47.0" layoutX="370.0" layoutY="194.0" startX="-69.87042236328125" startY="-0.55731201171875" strokeWidth="2.0" />
+   </children>
+</AnchorPane>
